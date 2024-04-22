@@ -36,9 +36,6 @@ emb_model = "text-embedding-ada-002"
 # Load vector database from file
 def load_vector_database(file_path):
     return pd.read_pickle(file_path)
-    # with open(file_path, 'rb') as f:
-    #     vector_database = pickle.load(f)
-    # return vector_database
 
 def generate_embedding(text):
     response = client.embeddings.create(
@@ -80,7 +77,7 @@ def extract_page(keys, output_path, df: pd.DataFrame):
         page_number = int(key_parts[1])
         # print(path, page_number)
         if path.endswith(".pdf"):
-            reader = PyPDF2.PdfReader(f'files/{path}') # TODO: inefficient to open the file for each page
+            reader = PyPDF2.PdfReader(f'demo-files/files/nrc/{path}') # TODO: inefficient to open the file for each page
             writer.add_page(reader.pages[page_number])
         elif not path.endswith(".pdf"):
             txt_file.write(f'***Rank {rank+1}***\nPreviuos Chunk - {path}_{page_number-1}:\n')
@@ -126,7 +123,7 @@ def extract_page(keys, output_path, df: pd.DataFrame):
 
 if __name__ == "__main__":
     # Load vector database
-    vector_database_file = "NRC_regulations.pkl"
+    vector_database_file = "demo-files/emb/pkl/NRC_regulations.pkl"
     vector_database_df = load_vector_database(vector_database_file)
 
     # Example query embedding
@@ -137,7 +134,7 @@ if __name__ == "__main__":
 
     # Retrieve chunks using cosine similarity
     retrieval_results = retrieve_chunks(query_embedding, vector_database_df)
-    extract_page([key for key, chunk, similarity in retrieval_results[:20]], f"retrieved/{query[:40]}", vector_database_df)
+    extract_page([key for key, chunk, similarity in retrieval_results[:20]], f"demo-files/retrieved/{query[:40]}", vector_database_df)
 
 #     # Print retrieval results
 #     for i, (key, chunk, similarity) in enumerate(retrieval_results[:20]):

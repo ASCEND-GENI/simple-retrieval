@@ -44,14 +44,6 @@ emb_model = "text-embedding-ada-002"
 
 
 def extract_text_from_pdf(pdf_path) -> list[str]:
-    # text = []
-    # with open(pdf_path, 'rb') as file:
-    #     reader = PyPDF2.PdfFileReader(file)
-    #     for page_num in range(reader.numPages):
-    #         page = reader.getPage(page_num)
-    #         text.append(page.extractText().strip())
-    # return text
-
     reader = PdfReader(pdf_path)
     return [page.extract_text() for page in reader.pages]
 
@@ -105,22 +97,15 @@ def build_vector_database(pdf_folder):
     return (df, total_cost)
 
 if __name__ == "__main__":
-    pdf_folder = "files"
+    pdf_folder = "demo-files/document/nrc"
     (vector_database_df, total_cost) = build_vector_database(pdf_folder)
-    vector_database_df.to_pickle("NRC_regulations.pkl")
+    vector_database_df.to_pickle("demo-files/emb/pkl/NRC_regulations.pkl")
 
-    vector_database_df.to_csv('output/NRC_regulations.csv', index=False)
+    vector_database_df.to_csv('demo-files/emb/csv/NRC_regulations.csv', index=False)
 
     end_time = time.time()
     print("time elapsed: ", end_time - start_time)
     print("Total cost: $", total_cost)
-
-    # output_file = "vector_database.pkl"
-    # # Store vector database to a file
-    # with open(output_file, 'wb') as f:
-    #     pickle.dump(vector_database, f)
-
-
     
     # Now you have a dictionary where keys are PDF filenames and values are embeddings
     # You can use this database for retrieval or further analysis

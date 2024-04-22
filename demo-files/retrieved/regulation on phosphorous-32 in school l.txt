@@ -1,0 +1,124 @@
+***Rank 4***
+Previuos Chunk - html.txt_3:
+35.75 Release of individuals containing unsealed byproduct material or implants containing byproduct material.
+
+35.80 Provision of mobile medical service.
+
+35.92 Decay-in-storage.
+
+Subpart D—Unsealed Byproduct Material—Written Directive Not Required
+35.100 Use of unsealed byproduct material for uptake, dilution, and excretion studies for which a written directive is not required.
+
+35.190 Training for uptake, dilution, and excretion studies.
+
+35.200 Use of unsealed byproduct material for imaging and localization studies for which a written directive is not required.
+
+35.204 Permissible molybdenum-99, strontium-82, and strontium-85 concentrations.
+
+35.290 Training for imaging and localization studies.
+
+
+This Chunk - html.txt_4:
+35.204 Permissible molybdenum-99, strontium-82, and strontium-85 concentrations.
+
+35.290 Training for imaging and localization studies.
+
+Subpart E—Unsealed Byproduct Material—Written Directive Required
+35.300 Use of unsealed by product material for which a written directive is required.
+
+35.310 Safety instruction.
+
+35.315 Safety precautions.
+
+35.390 Training for use of unsealed byproduct material for which a written directive is required.
+
+35.392 Training for the oral administration of sodium iodide I-131 requiring a written directive in quantities less than or equal to 1.22 gigabecquerels (33 millicuries).
+
+35.394 Training for the oral administration of sodium iodide I-131 requiring a written directive in quantities greater than 1.22 gigabecquerels (33 millicuries).
+
+
+Next Chunk - html.txt_5:
+35.394 Training for the oral administration of sodium iodide I-131 requiring a written directive in quantities greater than 1.22 gigabecquerels (33 millicuries).
+
+35.396 Training for the parenteral administration of unsealed byproduct material requiring a written directive.
+
+Subpart F—Manual Brachytherapy
+35.400 Use of sources for manual brachytherapy.
+
+35.404 Surveys after source implant and removal.
+
+35.406 Brachytherapy sources accountability.
+
+35.410 Safety instruction.
+
+35.415 Safety precautions.
+
+35.432 Calibration measurements of brachytherapy sources.
+
+35.433 Strontium-90 sources for ophthalmic treatments.
+
+35.457 Therapy-related computer systems.
+
+35.490 Training for use of manual brachytherapy sources.
+
+35.491 Training for ophthalmic use of strontium-90.
+
+
+***Rank 16***
+Previuos Chunk - html.txt_370:
+[68 FR 58805, Oct. 10, 2003; 73 FR 5720, Jan. 31, 2008; 79 FR 75739, Dec. 19, 2014]
+
+§ 35.3204 Report and notification for an eluate exceeding permissible molybdenum-99, strontium-82, and strontium-85 concentrations.
+To top of page
+
+
+This Chunk - html.txt_371:
+§ 35.3204 Report and notification for an eluate exceeding permissible molybdenum-99, strontium-82, and strontium-85 concentrations.
+To top of page
+
+(a) The licensee shall notify by telephone the NRC Operations Center and the distributor of the generator within 7 calendar days after discovery that an eluate exceeded the permissible concentration listed in § 35.204(a) at the time of generator elution. The telephone report to the NRC must include the manufacturer, model number, and serial number (or lot number) of the generator; the results of the measurement; the date of the measurement; whether dosages were administered to patients or human research subjects, when the distributor was notified, and the action taken.
+
+
+Next Chunk - html.txt_372:
+(b) By an appropriate method listed in § 30.6(a) of this chapter, the licensee shall submit a written report to the appropriate NRC Regional Office listed in § 30.6 of this chapter within 30 calendar days after discovery of an eluate exceeding the permissible concentration at the time of generator elution. The written report must include the action taken by the licensee; the patient dose assessment; the methodology used to make this dose assessment if the eluate was administered to patients or human research subjects; and the probable cause and an assessment of failure in the licensee's equipment, procedures or training that contributed to the excessive readings if an error occurred in the licensee's breakthrough determination; and the information in the telephone report as required by
+
+
+***Rank 18***
+Previuos Chunk - html.txt_310:
+(1) Successfully complete a minimum of 3 years of residency training in a radiation therapy program approved by the Residency Review Committee of the Accreditation Council for Graduate Medical Education or the Royal College of Physicians and Surgeons of Canada or the Council on Postdoctoral Training of the American Osteopathic Association; and
+
+(2) Pass an examination, administered by diplomates of the specialty board, which tests knowledge and competence in radiation safety, radionuclide handling, treatment planning, quality assurance, and clinical use of stereotactic radiosurgery, remote afterloaders and external beam therapy; or
+
+
+This Chunk - html.txt_311:
+(b)(1) Has completed a structured educational program in basic radionuclide techniques applicable to the use of a sealed source in a therapeutic medical unit that includes—
+
+(i) 200 hours of classroom and laboratory training in the following areas—
+
+(A) Radiation physics and instrumentation;
+
+(B) Radiation protection;
+
+(C) Mathematics pertaining to the use and measurement of radioactivity; and
+
+(D) Radiation biology; and
+
+(ii) 500 hours of work experience, under the supervision of an authorized user who meets the requirements in § 35.57, § 35.690, or equivalent Agreement State requirements, at a medical facility that is authorized to use byproduct materials in § 35.600, involving—
+
+(A) Reviewing full calibration measurements and periodic spot-checks;
+
+
+Next Chunk - html.txt_312:
+(A) Reviewing full calibration measurements and periodic spot-checks;
+
+(B) Preparing treatment plans and calculating treatment doses and times;
+
+(C) Using administrative controls to prevent a medical event involving the use of byproduct material;
+
+(D) Implementing emergency procedures to be followed in the event of the abnormal operation of the medical unit or console;
+
+(E) Checking and using survey meters; and
+
+(F) Selecting the proper dose and how it is to be administered; and
+
+
