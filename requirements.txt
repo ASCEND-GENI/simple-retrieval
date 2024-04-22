@@ -4,6 +4,7 @@ annotated-types==0.6.0
 anyio==4.3.0
 attrs==23.2.0
 certifi==2024.2.2
+chardet==5.2.0
 charset-normalizer==3.3.2
 dataclasses-json==0.6.4
 distro==1.9.0
@@ -28,6 +29,7 @@ openai==1.23.2
 orjson==3.10.1
 packaging==23.2
 pandas==2.2.2
+pillow==10.3.0
 pydantic==2.7.0
 pydantic_core==2.18.1
 PyPDF2==3.0.1
@@ -35,6 +37,7 @@ python-dateutil==2.9.0.post0
 python-dotenv==1.0.1
 pytz==2024.1
 PyYAML==6.0.1
+reportlab==4.2.0
 requests==2.31.0
 scikit-learn==1.4.2
 scipy==1.13.0
