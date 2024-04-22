@@ -20,5 +20,12 @@
     - One paper mentions about extracting a whole paper down to “Idea”, “Method”… can’t we give types to each segment of text?
     - MaxSim tries to find the 
     - Disregard the problem of Entity Disambiguation and co-referencing, treat all of them as potential possibilities
+  - Research Meeting Notes w/ Prof. Kozlowski
+    - Information Density Measure
+    - 100 triplets will be more information dense than 100 chunks
+    - start with nuclear types relations, let LLM to create its triplets. Using interactive methods and the direct prompt engineering construction methods
+    - if only 1 entity, just like a BFS. If multiple entity, looking for paths; if contains specific relations, we will filter the paths.
+    - Come up with a few user queries. That all are different in terms of retrieval. Like “describe A and B…”
+    - weighted relevance
 - Process Overview: Vectorize word embeddigns for the known entitites and ambiguous entities. Get top k likely candidates for each model and then query GPT-4 for the passage containing both mentions and ask it which one it likely is. 
 
