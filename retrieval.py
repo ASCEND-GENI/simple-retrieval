@@ -37,7 +37,7 @@ emb_model = "text-embedding-ada-002"
 def load_vector_database(file_path):
     return pd.read_pickle(file_path)
 
-def generate_embedding(text):
+async def generate_embedding(text):
     response = client.embeddings.create(
         input=text,
         model=emb_model
@@ -51,7 +51,7 @@ def generate_embedding(text):
     return (response.data[0].embedding, cost)
 
 # Function to retrieve chunks using cosine similarity
-def retrieve_chunks(query_embedding, vector_database_df: pd.DataFrame, threshold=0.7, top_k=10):
+async def retrieve_chunks(query_embedding, vector_database_df: pd.DataFrame, threshold=0.7, top_k=10):
     results = []
     for index, row in vector_database_df.iterrows():
         embedding = row['Embedding']
