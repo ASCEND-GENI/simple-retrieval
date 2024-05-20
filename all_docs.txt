@@ -1,0 +1,102 @@
+Thorium-based nuclear power generation is fueled primarily by the nuclear fission of the isotope uranium-233 produced from the fertile element thorium. A thorium fuel cycle can offer several potential advantages over a uranium fuel cycle—including the much greater abundance of thorium found on Earth, superior physical and nuclear fuel properties, and reduced nuclear waste production. One advantage of thorium fuel is its low weaponization potential. It is difficult to weaponize the uranium-233 that is bred in the reactor. Plutonium-239 is produced at much lower levels and can be consumed in thorium reactors. 
+After studying the feasibility of using thorium, nuclear scientists Ralph W. Moir and Edward Teller suggested that thorium nuclear research should be restarted after a three-decade shutdown and that a small prototype plant should be built.
+Between 1999 and 2022, the number of operational thorium reactors in the world has risen from zero to a handful of research reactors, to commercial plans for producing full-scale thorium-based reactors for use as power plants on a national scale.
+Advocates believe thorium is key to developing a new generation of cleaner, safer nuclear power. In 2011, a group of scientists at the Georgia Institute of Technology assessed thorium-based power as "a 1000+ year solution or a quality low-carbon bridge to truly sustainable energy sources solving a huge portion of mankind's negative environmental impact." However, development of thorium power has significant start-up costs. Development of breeder reactors in general (including thorium reactors, which are breeders by nature) will increase proliferation concerns. 
+
+
+== History ==
+
+After World War II, uranium-based nuclear reactors were built to produce electricity. These were similar to the reactor designs that produced material for nuclear weapons.  During that period, the government of the United States also built an experimental prototype molten salt reactor (MSR) using U-233 fuel, the fissile material created by bombarding thorium with neutrons. The MSRE reactor, built at Oak Ridge National Laboratory, operated critical for roughly 15,000 hours from 1965 to 1969. In 1968, Nobel laureate and discoverer of plutonium, Glenn Seaborg, publicly announced to the Atomic Energy Commission, of which he was chairman, that the thorium-based reactor had been successfully developed and tested.
+In 1973, however, the US government settled on uranium technology and largely discontinued thorium-related nuclear research. The reasons were that uranium-fuelled reactors were more efficient, the research was proven and thorium's breeding ratio was thought insufficient to produce enough fuel to support development of a commercial nuclear industry.  As Moir and Teller later wrote, "The competition came down to a liquid metal fast breeder reactor (LMFBR) on the uranium-plutonium cycle and a thermal reactor on the thorium-233U cycle, the molten salt breeder reactor. The LMFBR had a larger breeding rate ... and won the competition."  In their opinion, the decision to stop development of thorium reactors, at least as a backup option, "was an excusable mistake".
+Science writer Richard Martin states that nuclear physicist Alvin Weinberg, who was director at Oak Ridge and primarily responsible for the new reactor, lost his job as director because he championed development of the safer thorium reactors. Weinberg himself recalls this period:
+
+[Congressman] Chet Holifield was clearly exasperated with me, and he finally blurted out, "Alvin, if you are concerned about the safety of reactors, then I think it may be time for you to leave nuclear energy." I was speechless. But it was apparent to me that my style, my attitude, and my perception of the future were no longer in tune with the powers within the AEC.
+Martin explains that Weinberg's unwillingness to sacrifice potentially safe nuclear power for the benefit of military uses forced him to retire:
+
+Weinberg realized that you co
+
+
+=======
+
+
+A nuclear reactor is a device used to initiate and control a fission nuclear chain reaction or nuclear fusion reactions. Nuclear reactors are used at nuclear power plants for electricity generation and in nuclear marine propulsion. Heat from nuclear fission is passed to a working fluid (water or gas), which in turn runs through steam turbines. These either drive a ship's propellers or turn electrical generators' shafts. Nuclear generated steam in principle can be used for industrial process heat or for district heating. Some reactors are used to produce isotopes for medical and industrial use, or for production of weapons-grade plutonium. As of 2022, the International Atomic Energy Agency reports there are 422 nuclear power reactors and 223 nuclear research reactors in operation around the world.
+In the early era of nuclear reactors (1940s), a reactor was known as a nuclear pile or atomic pile (so-called because the graphite moderator blocks of the first reactor to reach criticality were stacked in a pile).
+
+
+== Operation ==
+
+Just as conventional thermal power stations generate electricity by harnessing the thermal energy released from burning fossil fuels, nuclear reactors convert the energy released by controlled nuclear fission into thermal energy for further conversion to mechanical or electrical forms.
+
+
+=== Fission ===
+
+When a large fissile atomic nucleus such as uranium-235, uranium-233, or plutonium-239 absorbs a neutron, it may undergo nuclear fission. The heavy nucleus splits into two or more lighter nuclei, (the fission products), releasing kinetic energy, gamma radiation, and free neutrons. A portion of these neutrons may be absorbed by other fissile atoms and trigger further fission events, which release more neutrons, and so on. This is known as a nuclear chain reaction.
+To control such a nuclear chain reaction, control rods containing neutron poisons and neutron moderators can change the portion of neutrons that will go on to cause more fission. Nuclear reactors generally have automatic and manual systems to shut the fission reaction down if monitoring or instrumentation detects unsafe conditions.
+
+
+=== Heat generation ===
+The reactor core generates heat in a number of ways:
+
+The kinetic energy of fission products is converted to thermal energy when these nuclei collide with nearby atoms.
+The reactor absorbs some of the gamma rays produced during fission and converts their energy into heat.
+Heat is produced by the radioactive decay of fission products and materials that have been activated by neutron absorption. This decay heat source will remain for some time even after the reactor is shut down.
+A kilogram of uranium-235 (U-235) converted via nuclear processes releases approximately three million times more energy than a kilogram of coal burned conventionally (7.2 × 1013 joules per kilogram of uranium-235 versus 2.4 × 107 joules per kilogram of coal).
+The fission of one kilogram of uranium-235 releases about 19 billion kilocalories, so the energy released by 1 kg of uranium-235 corresponds to that released by burning 2.7 million kg of coal.
+
+
+=== Cooling ===
+A nuclear reactor coolant – usually water but sometimes a gas or a liquid metal (like liquid sodium or lead) or molten salt – is circulated past the reactor core to absorb the heat that it generates. The heat is carried away from the reactor and is then used to generate steam. Most reactor systems employ a cooling system that is physically separated from the water that will be boiled to produce pressurized steam for the turbines, like the pressurized water reactor. However, in some reactors the water for the steam turbines is boiled directly by the reactor core; for example the boiling water reactor.
+
+
+=== Reactivity control ===
+
+The rate of fission reactions within a reactor core can be adjusted by controlling the quantity of neutrons that are able to induce further fission events. Nuclear reactors typically employ several methods of neutron control to adj
+
+
+=======
+
+
+A pressurized water reactor (PWR) is a type of light-water nuclear reactor. PWRs constitute the large majority of the world's nuclear power plants (with notable exceptions being the UK, Japan and Canada). In a PWR, the primary coolant (water) is pumped under high pressure to the reactor core where it is heated by the energy released by the fission of atoms. The heated, high pressure water then flows to a steam generator, where it transfers its thermal energy to lower pressure water of a secondary system where steam is generated. The steam then drives turbines, which spin an electric generator. In contrast to a boiling water reactor (BWR), pressure in the primary coolant loop prevents the water from boiling within the reactor. All light-water reactors use ordinary water as both coolant and neutron moderator. Most use anywhere from two to four vertically mounted steam generators; VVER reactors use horizontal steam generators.
+PWRs were originally designed to serve as nuclear marine propulsion for nuclear submarines and were used in the original design of the second commercial power plant at Shippingport Atomic Power Station.
+PWRs currently operating in the United States are considered Generation II reactors. Russia's VVER reactors are similar to US PWRs, but the VVER-1200 is not considered Generation II (see below). France operates many PWRs to generate the bulk of its electricity.
+
+
+== History ==
+
+Several hundred PWRs are used for marine propulsion in aircraft carriers, nuclear submarines and ice breakers. In the US, they were originally designed at the Oak Ridge National Laboratory for use as a nuclear submarine power plant with a fully operational submarine power plant located at the Idaho National Laboratory. Follow-on work was conducted by Westinghouse Bettis Atomic Power Laboratory. The first purely commercial nuclear power plant at Shippingport Atomic Power Station was originally designed as a pressurized water reactor (although the first power plant connected to the grid was at Obninsk, USSR), on insistence from Admiral Hyman G. Rickover that a viable commercial plant would include none of the "crazy thermodynamic cycles that everyone else wants to build".
+The United States Army Nuclear Power Program operated pressurized water reactors from 1954 to 1974. Three Mile Island Nuclear Generating Station initially operated two pressurized water reactor plants, TMI-1 and TMI-2. The partial meltdown of TMI-2 in 1979 essentially ended the growth in new construction of nuclear power plants in the United States for two decades. Watts Bar unit 2 (a Westinghouse 4-loop PWR) came online in 2016, becoming the first new nuclear reactor in the United States since 1996.
+The pressurized water reactor has several new Generation III reactor evolutionary designs: the AP1000, VVER-1200, ACPR1000+, APR1400, Hualong One, IPWR-900 and EPR. The first AP1000 and EPR reactors were connected to the power grid in China in 2018. In 2020, NuScale Power became the first U.S. company to receive regulatory approval from the Nuclear Regulatory Commission for a small modular reactor with a modified PWR design. Also in 2020, the Energy Impact Center introduced the OPEN100 project, which published open-source blueprints for the construction of a 100 MWelectric nuclear power plant with a PWR design.
+
+
+== Design ==
+
+Nuclear fuel in the reactor pressure vessel is engaged in a controlled fission chain reaction, which produces heat, heating the water in the primary coolant loop by thermal conduction through the fuel cladding. The hot primary coolant is pumped into a heat exchanger called the steam generator, where it flows through several thousand small tubes. Heat is transferred through the walls of these tubes to the lower pressure secondary coolant located on the shell side of the exchanger where the secondary coolant evaporates to pressurized steam. This transfer of heat is accomplished without mixing the two fluids to prevent the secondary coolant from becomin
+
+
+=======
+
+
+Nuclear fission is a reaction in which the nucleus of an atom splits into two or more smaller nuclei. The fission process often produces gamma photons, and releases a very large amount of energy even by the energetic standards of radioactive decay.
+Nuclear fission was discovered on 19 December 1938 in Berlin by German chemists Otto Hahn and Fritz Strassmann. Physicists Lise Meitner and her nephew Otto Robert Frisch explained it theoretically in January 1939. Frisch named the process "fission" by analogy with biological fission of living cells. In their second publication on nuclear fission in February 1939, Hahn and Strassmann predicted the existence and liberation of additional neutrons during the fission process, opening up the possibility of a nuclear chain reaction.
+For heavy nuclides, it is an exothermic reaction which can release large amounts of energy both as electromagnetic radiation and as kinetic energy of the fragments (heating the bulk material where fission takes place). Like nuclear fusion, for fission to produce energy, the total binding energy of the resulting elements must be greater than that of the starting element.
+Fission is a form of nuclear transmutation because the resulting fragments (or daughter atoms) are not the same element as the original parent atom. The two (or more) nuclei produced are most often of comparable but slightly different sizes, typically with a mass ratio of products of about 3 to 2, for common fissile isotopes. Most fissions are binary fissions (producing two charged fragments), but occasionally (2 to 4 times per 1000 events), three positively charged fragments are produced, in a ternary fission. The smallest of these fragments in ternary processes ranges in size from a proton to an argon nucleus.
+Apart from fission induced by a neutron, harnessed and exploited by humans, a natural form of spontaneous radioactive decay (not requiring a neutron) is also referred to as fission, and occurs especially in very high-mass-number isotopes. Spontaneous fission was discovered in 1940 by Flyorov, Petrzhak, and Kurchatov in Moscow, in an experiment intended to confirm that, without bombardment by neutrons, the fission rate of uranium was negligible, as predicted by Niels Bohr; it was not negligible.
+The unpredictable composition of the products (which vary in a broad probabilistic and somewhat chaotic manner) distinguishes fission from purely quantum tunneling processes such as proton emission, alpha decay, and cluster decay, which give the same products each time. Nuclear fission produces energy for nuclear power and drives the explosion of nuclear weapons. Both uses are possible because certain substances called nuclear fuels undergo fission when struck by fission neutrons, and in turn emit neutrons when they break apart. This makes a self-sustaining nuclear chain reaction possible, releasing energy at a controlled rate in a nuclear reactor or at a very rapid, uncontrolled rate in a nuclear weapon.
+The amount of free energy released in the fission of an equivalent amount of 235U is a million times more than that released in the combustion of methane or from hydrogen fuel cells.
+The products of nuclear fission, however, are on average far more radioactive than the heavy elements which are normally fissioned as fuel, and remain so for significant amounts of time, giving rise to a nuclear waste problem. However, the seven long-lived fission products make up only a small fraction of fission products. Neutron absorption which does not lead to fission produces plutonium (from 238U) and minor actinides (from both 235U and 238U) whose radiotoxicity is far higher than that of the long lived fission products. Concerns over nuclear waste accumulation and the destructive potential of nuclear weapons are a counterbalance to the peaceful desire to use fission as an energy source. The thorium fuel cycle produces virtually no plutonium and much less minor actinides, but 232U - or rather its decay products 
+
+
+=======
+
+
+In nuclear physics, a nuclear chain reaction occurs when one single nuclear reaction causes an average of one or more subsequent nuclear reactions, thus leading to the possibility of a self-propagating series or "positive feedback loop" of these reactions. The specific nuclear reaction may be the fission of heavy isotopes (e.g., uranium-235, 235U). A nuclear chain reaction releases several million times more energy per reaction than any chemical reaction.
+
+
+== History ==
+Chemical chain reactions were first proposed by German chemist Max Bodenstein in 1913, and were reasonably well understood before nuclear chain reactions were proposed. It was understood that chemical chain reactions were responsible for exponentially increasing rates in reactions, such as produced in chemical explosions.
+The concept of a nuclear chain reaction was reportedly first hypothesized by Hungarian scientist Leó Szilárd on September 12, 1933. Szilárd that morning had been reading in a London paper of an experiment in which protons from an accelerator had been used to split lithium-7 into alpha particles, and the fact that much greater amounts of energy were produced by the reaction than the proton supplied. Ernest Rutherford commented in the article that inefficiencies in the process precluded use of it for power generation. However, the neutron had been discovered by James Chadwick in 1932, shortly before, as the product of a nuclear reaction. Szilárd, who had been trained as an engineer and physicist, put the two nuclear experimental results together in his mind and realized that if a nuclear reaction produced neutrons, which then caused further similar nuclear reactions, the process might be a self-perpetuating nuclear chain-reaction, spontaneously producing new isotopes and power without the need for protons or an accelerator. Szilárd, however, did not propose fission as the mechanism for his chain reaction, since the fission reaction was not yet discovered, or even suspected. Instead, Szilárd proposed using mixtures of lighter known isotopes which produced neutrons in copious amounts. He filed a patent for his idea of a simple nuclear reactor the following year.
+In 1936, Szilárd attempted to create a chain reaction using beryllium and indium, but was unsuccessful. Nuclear fission was discovered by Otto Hahn and Fritz Strassmann in December 1938 and explained theoretically in January 1939 by Lise Meitner and her nephew Otto Robert Frisch. In their second publication on nuclear fission in February 1939, Hahn and Strassmann used the term Uranspaltung (uranium fission) for the first time, and predicted the existence and liberation of additional neutrons during the fission process, opening up the possibility of a nuclear chain reaction.
+A few months later, Frédéric Joliot-Curie, H. Von Halban and L. Kowarski in Paris searched for, and discovered, neutron multiplication in uranium, proving that a nuclear chain reaction by this mechanism was indeed possible.
+On May 4, 1939, Joliot-Curie, Halban, and Kowarski filed three patents. The first two described power production from a nuclear chain reaction, the last one called Perfectionnement aux charges explosives was the first patent for the atomic bomb and is filed as patent No. 445686 by the Caisse nationale de Recherche Scientifique.
+In parallel, Szilárd and Enrico Fermi in New York made the same analysis. This discovery prompted the letter from Szilárd and signed by Albert Einstein to President Franklin D. Roosevelt, warning of the possibility that Nazi Germany might be attempting to build an atomic bomb.
+On December 2, 1942, a team led by Fermi (and including Szilárd) produced the first artificial self-sustaining nuclear chain reaction with the Chicago Pile-1 (CP-1) experimental reactor in a racquets court below the bleachers of Stagg Field at the University of Chicago. Fermi's experiments at the University of Chicago were part of Arthur H. Compton's Metallurgical Laboratory of the Manhattan Project; th

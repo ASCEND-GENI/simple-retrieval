@@ -1,0 +1,3042 @@
+[
+  {
+    "n": {
+      "identity": 0,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "id": "Marie Curie"
+      },
+      "elementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:0"
+    },
+    "r": {
+      "identity": 1152921504606846976,
+      "start": 0,
+      "end": 1,
+      "type": "NATIONALITY",
+      "properties": {},
+      "elementId": "5:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:1152921504606846976",
+      "startNodeElementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:0",
+      "endNodeElementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:1"
+    },
+    "m": {
+      "identity": 1,
+      "labels": [
+        "Nationality"
+      ],
+      "properties": {
+        "id": "Polish"
+      },
+      "elementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:1"
+    }
+  },
+  {
+    "n": {
+      "identity": 0,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "id": "Marie Curie"
+      },
+      "elementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:0"
+    },
+    "r": {
+      "identity": 1155173304420532224,
+      "start": 0,
+      "end": 2,
+      "type": "NATIONALITY",
+      "properties": {},
+      "elementId": "5:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:1155173304420532224",
+      "startNodeElementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:0",
+      "endNodeElementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:2"
+    },
+    "m": {
+      "identity": 2,
+      "labels": [
+        "Nationality"
+      ],
+      "properties": {
+        "id": "French"
+      },
+      "elementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:2"
+    }
+  },
+  {
+    "n": {
+      "identity": 0,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "id": "Marie Curie"
+      },
+      "elementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:0"
+    },
+    "r": {
+      "identity": 6917529027641081866,
+      "start": 0,
+      "end": 10,
+      "type": "NATIONALITY",
+      "properties": {},
+      "elementId": "5:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:6917529027641081866",
+      "startNodeElementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:0",
+      "endNodeElementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:10"
+    },
+    "m": {
+      "identity": 10,
+      "labels": [
+        "Nationality"
+      ],
+      "properties": {
+        "id": "Naturalised-French"
+      },
+      "elementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:10"
+    }
+  },
+  {
+    "n": {
+      "identity": 0,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "id": "Marie Curie"
+      },
+      "elementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:0"
+    },
+    "r": {
+      "identity": 1152922604118474752,
+      "start": 0,
+      "end": 3,
+      "type": "OCCUPATION",
+      "properties": {},
+      "elementId": "5:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:1152922604118474752",
+      "startNodeElementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:0",
+      "endNodeElementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:3"
+    },
+    "m": {
+      "identity": 3,
+      "labels": [
+        "Occupation"
+      ],
+      "properties": {
+        "id": "Physicist"
+      },
+      "elementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:3"
+    }
+  },
+  {
+    "n": {
+      "identity": 0,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "id": "Marie Curie"
+      },
+      "elementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:0"
+    },
+    "r": {
+      "identity": 1155174403932160000,
+      "start": 0,
+      "end": 4,
+      "type": "OCCUPATION",
+      "properties": {},
+      "elementId": "5:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:1155174403932160000",
+      "startNodeElementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:0",
+      "endNodeElementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:4"
+    },
+    "m": {
+      "identity": 4,
+      "labels": [
+        "Occupation"
+      ],
+      "properties": {
+        "id": "Chemist"
+      },
+      "elementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:4"
+    }
+  },
+  {
+    "n": {
+      "identity": 0,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "id": "Marie Curie"
+      },
+      "elementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:0"
+    },
+    "r": {
+      "identity": 1152923703630102528,
+      "start": 0,
+      "end": 5,
+      "type": "RESEARCH_FIELD",
+      "properties": {},
+      "elementId": "5:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:1152923703630102528",
+      "startNodeElementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:0",
+      "endNodeElementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:5"
+    },
+    "m": {
+      "identity": 5,
+      "labels": [
+        "Field"
+      ],
+      "properties": {
+        "id": "Radioactivity"
+      },
+      "elementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:5"
+    }
+  },
+  {
+    "n": {
+      "identity": 0,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "id": "Marie Curie"
+      },
+      "elementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:0"
+    },
+    "r": {
+      "identity": 1152924803141730304,
+      "start": 0,
+      "end": 6,
+      "type": "AWARDEE",
+      "properties": {},
+      "elementId": "5:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:1152924803141730304",
+      "startNodeElementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:0",
+      "endNodeElementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:6"
+    },
+    "m": {
+      "identity": 6,
+      "labels": [
+        "Award"
+      ],
+      "properties": {
+        "id": "Nobel Prize"
+      },
+      "elementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:6"
+    }
+  },
+  {
+    "n": {
+      "identity": 0,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "id": "Marie Curie"
+      },
+      "elementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:0"
+    },
+    "r": {
+      "identity": 1152925902653358080,
+      "start": 0,
+      "end": 8,
+      "type": "PROFESSOR",
+      "properties": {},
+      "elementId": "5:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:1152925902653358080",
+      "startNodeElementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:0",
+      "endNodeElementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:8"
+    },
+    "m": {
+      "identity": 8,
+      "labels": [
+        "Organization"
+      ],
+      "properties": {
+        "id": "University Of Paris"
+      },
+      "elementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:8"
+    }
+  },
+  {
+    "n": {
+      "identity": 0,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "id": "Marie Curie"
+      },
+      "elementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:0"
+    },
+    "r": {
+      "identity": 1152927002164985856,
+      "start": 0,
+      "end": 6,
+      "type": "AWARD_WINNER",
+      "properties": {},
+      "elementId": "5:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:1152927002164985856",
+      "startNodeElementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:0",
+      "endNodeElementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:6"
+    },
+    "m": {
+      "identity": 6,
+      "labels": [
+        "Award"
+      ],
+      "properties": {
+        "id": "Nobel Prize"
+      },
+      "elementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:6"
+    }
+  },
+  {
+    "n": {
+      "identity": 0,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "id": "Marie Curie"
+      },
+      "elementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:0"
+    },
+    "r": {
+      "identity": 1152928101676613632,
+      "start": 0,
+      "end": 6,
+      "type": "AWARD",
+      "properties": {},
+      "elementId": "5:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:1152928101676613632",
+      "startNodeElementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:0",
+      "endNodeElementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:6"
+    },
+    "m": {
+      "identity": 6,
+      "labels": [
+        "Award"
+      ],
+      "properties": {
+        "id": "Nobel Prize"
+      },
+      "elementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:6"
+    }
+  },
+  {
+    "n": {
+      "identity": 0,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "id": "Marie Curie"
+      },
+      "elementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:0"
+    },
+    "r": {
+      "identity": 1152929201188241408,
+      "start": 0,
+      "end": 9,
+      "type": "RESEARCH_AREA",
+      "properties": {},
+      "elementId": "5:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:1152929201188241408",
+      "startNodeElementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:0",
+      "endNodeElementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:9"
+    },
+    "m": {
+      "identity": 9,
+      "labels": [
+        "Researcharea"
+      ],
+      "properties": {
+        "id": "Radioactivity"
+      },
+      "elementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:9"
+    }
+  },
+  {
+    "n": {
+      "identity": 0,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "id": "Marie Curie"
+      },
+      "elementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:0"
+    },
+    "r": {
+      "identity": 6917536724222476299,
+      "start": 0,
+      "end": 11,
+      "type": "RESEARCH_AREA",
+      "properties": {},
+      "elementId": "5:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:6917536724222476299",
+      "startNodeElementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:0",
+      "endNodeElementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:11"
+    },
+    "m": {
+      "identity": 11,
+      "labels": [
+        "Research area"
+      ],
+      "properties": {
+        "id": "Radioactivity"
+      },
+      "elementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:11"
+    }
+  },
+  {
+    "n": {
+      "identity": 0,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "id": "Marie Curie"
+      },
+      "elementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:0"
+    },
+    "r": {
+      "identity": 6917537823734104069,
+      "start": 0,
+      "end": 5,
+      "type": "FIELD_OF_STUDY",
+      "properties": {},
+      "elementId": "5:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:6917537823734104069",
+      "startNodeElementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:0",
+      "endNodeElementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:5"
+    },
+    "m": {
+      "identity": 5,
+      "labels": [
+        "Field"
+      ],
+      "properties": {
+        "id": "Radioactivity"
+      },
+      "elementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:5"
+    }
+  },
+  {
+    "n": {
+      "identity": 0,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "id": "Marie Curie"
+      },
+      "elementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:0"
+    },
+    "r": {
+      "identity": 6917537823734104076,
+      "start": 0,
+      "end": 12,
+      "type": "FIELD_OF_STUDY",
+      "properties": {},
+      "elementId": "5:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:6917537823734104076",
+      "startNodeElementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:0",
+      "endNodeElementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:12"
+    },
+    "m": {
+      "identity": 12,
+      "labels": [
+        "Field_of_study"
+      ],
+      "properties": {
+        "id": "Radioactivity"
+      },
+      "elementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:12"
+    }
+  },
+  {
+    "n": {
+      "identity": 0,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "id": "Marie Curie"
+      },
+      "elementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:0"
+    },
+    "r": {
+      "identity": 6917538923245731846,
+      "start": 0,
+      "end": 6,
+      "type": "AWARD_RECEIVED",
+      "properties": {},
+      "elementId": "5:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:6917538923245731846",
+      "startNodeElementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:0",
+      "endNodeElementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:6"
+    },
+    "m": {
+      "identity": 6,
+      "labels": [
+        "Award"
+      ],
+      "properties": {
+        "id": "Nobel Prize"
+      },
+      "elementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:6"
+    }
+  },
+  {
+    "n": {
+      "identity": 7,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "id": "Pierre Curie"
+      },
+      "elementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:7"
+    },
+    "r": {
+      "identity": 1152924803141730311,
+      "start": 7,
+      "end": 6,
+      "type": "AWARDEE",
+      "properties": {},
+      "elementId": "5:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:1152924803141730311",
+      "startNodeElementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:7",
+      "endNodeElementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:6"
+    },
+    "m": {
+      "identity": 6,
+      "labels": [
+        "Award"
+      ],
+      "properties": {
+        "id": "Nobel Prize"
+      },
+      "elementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:6"
+    }
+  },
+  {
+    "n": {
+      "identity": 7,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "id": "Pierre Curie"
+      },
+      "elementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:7"
+    },
+    "r": {
+      "identity": 1152927002164985863,
+      "start": 7,
+      "end": 6,
+      "type": "AWARD_WINNER",
+      "properties": {},
+      "elementId": "5:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:1152927002164985863",
+      "startNodeElementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:7",
+      "endNodeElementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:6"
+    },
+    "m": {
+      "identity": 6,
+      "labels": [
+        "Award"
+      ],
+      "properties": {
+        "id": "Nobel Prize"
+      },
+      "elementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:6"
+    }
+  },
+  {
+    "n": {
+      "identity": 7,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "id": "Pierre Curie"
+      },
+      "elementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:7"
+    },
+    "r": {
+      "identity": 1152928101676613639,
+      "start": 7,
+      "end": 6,
+      "type": "AWARD",
+      "properties": {},
+      "elementId": "5:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:1152928101676613639",
+      "startNodeElementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:7",
+      "endNodeElementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:6"
+    },
+    "m": {
+      "identity": 6,
+      "labels": [
+        "Award"
+      ],
+      "properties": {
+        "id": "Nobel Prize"
+      },
+      "elementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:6"
+    }
+  },
+  {
+    "n": {
+      "identity": 7,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "id": "Pierre Curie"
+      },
+      "elementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:7"
+    },
+    "r": {
+      "identity": 6919790723059417094,
+      "start": 7,
+      "end": 6,
+      "type": "AWARD_RECEIVED",
+      "properties": {},
+      "elementId": "5:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:6919790723059417094",
+      "startNodeElementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:7",
+      "endNodeElementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:6"
+    },
+    "m": {
+      "identity": 6,
+      "labels": [
+        "Award"
+      ],
+      "properties": {
+        "id": "Nobel Prize"
+      },
+      "elementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:6"
+    }
+  },
+  {
+    "n": {
+      "identity": 13,
+      "labels": [
+        "Concept"
+      ],
+      "properties": {
+        "id": "Thorium-Based Nuclear Power"
+      },
+      "elementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:13"
+    },
+    "r": {
+      "identity": 1152932499723124749,
+      "start": 13,
+      "end": 14,
+      "type": "USES",
+      "properties": {},
+      "elementId": "5:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:1152932499723124749",
+      "startNodeElementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:13",
+      "endNodeElementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:14"
+    },
+    "m": {
+      "identity": 14,
+      "labels": [
+        "Chemical"
+      ],
+      "properties": {
+        "id": "Uranium-233"
+      },
+      "elementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:14"
+    }
+  },
+  {
+    "n": {
+      "identity": 13,
+      "labels": [
+        "Concept"
+      ],
+      "properties": {
+        "id": "Thorium-Based Nuclear Power"
+      },
+      "elementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:13"
+    },
+    "r": {
+      "identity": 1155184299536809997,
+      "start": 13,
+      "end": 15,
+      "type": "USES",
+      "properties": {},
+      "elementId": "5:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:1155184299536809997",
+      "startNodeElementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:13",
+      "endNodeElementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:15"
+    },
+    "m": {
+      "identity": 15,
+      "labels": [
+        "Element"
+      ],
+      "properties": {
+        "id": "Thorium"
+      },
+      "elementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:15"
+    }
+  },
+  {
+    "n": {
+      "identity": 16,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "id": "Ralph W. Moir"
+      },
+      "elementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:16"
+    },
+    "r": {
+      "identity": 1152933599234752528,
+      "start": 16,
+      "end": 13,
+      "type": "RESEARCHED",
+      "properties": {},
+      "elementId": "5:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:1152933599234752528",
+      "startNodeElementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:16",
+      "endNodeElementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:13"
+    },
+    "m": {
+      "identity": 13,
+      "labels": [
+        "Concept"
+      ],
+      "properties": {
+        "id": "Thorium-Based Nuclear Power"
+      },
+      "elementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:13"
+    }
+  },
+  {
+    "n": {
+      "identity": 17,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "id": "Edward Teller"
+      },
+      "elementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:17"
+    },
+    "r": {
+      "identity": 1152933599234752529,
+      "start": 17,
+      "end": 13,
+      "type": "RESEARCHED",
+      "properties": {},
+      "elementId": "5:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:1152933599234752529",
+      "startNodeElementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:17",
+      "endNodeElementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:13"
+    },
+    "m": {
+      "identity": 13,
+      "labels": [
+        "Concept"
+      ],
+      "properties": {
+        "id": "Thorium-Based Nuclear Power"
+      },
+      "elementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:13"
+    }
+  },
+  {
+    "n": {
+      "identity": 18,
+      "labels": [
+        "Organization"
+      ],
+      "properties": {
+        "id": "Georgia Institute Of Technology"
+      },
+      "elementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:18"
+    },
+    "r": {
+      "identity": 1152934698746380306,
+      "start": 18,
+      "end": 13,
+      "type": "ASSESSED",
+      "properties": {},
+      "elementId": "5:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:1152934698746380306",
+      "startNodeElementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:18",
+      "endNodeElementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:13"
+    },
+    "m": {
+      "identity": 13,
+      "labels": [
+        "Concept"
+      ],
+      "properties": {
+        "id": "Thorium-Based Nuclear Power"
+      },
+      "elementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:13"
+    }
+  },
+  {
+    "n": {
+      "identity": 20,
+      "labels": [
+        "Country"
+      ],
+      "properties": {
+        "id": "United States"
+      },
+      "elementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:20"
+    },
+    "r": {
+      "identity": 1152935798258008084,
+      "start": 20,
+      "end": 21,
+      "type": "BUILT",
+      "properties": {},
+      "elementId": "5:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:1152935798258008084",
+      "startNodeElementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:20",
+      "endNodeElementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:21"
+    },
+    "m": {
+      "identity": 21,
+      "labels": [
+        "Technology"
+      ],
+      "properties": {
+        "id": "Msre Reactor"
+      },
+      "elementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:21"
+    }
+  },
+  {
+    "n": {
+      "identity": 21,
+      "labels": [
+        "Technology"
+      ],
+      "properties": {
+        "id": "Msre Reactor"
+      },
+      "elementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:21"
+    },
+    "r": {
+      "identity": 1152936897769635861,
+      "start": 21,
+      "end": 22,
+      "type": "LOCATED_AT",
+      "properties": {},
+      "elementId": "5:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:1152936897769635861",
+      "startNodeElementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:21",
+      "endNodeElementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:22"
+    },
+    "m": {
+      "identity": 22,
+      "labels": [
+        "Organization"
+      ],
+      "properties": {
+        "id": "Oak Ridge National Laboratory"
+      },
+      "elementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:22"
+    }
+  },
+  {
+    "n": {
+      "identity": 23,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "id": "Glenn Seaborg"
+      },
+      "elementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:23"
+    },
+    "r": {
+      "identity": 1152937997281263639,
+      "start": 23,
+      "end": 24,
+      "type": "CHAIRMAN",
+      "properties": {},
+      "elementId": "5:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:1152937997281263639",
+      "startNodeElementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:23",
+      "endNodeElementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:24"
+    },
+    "m": {
+      "identity": 24,
+      "labels": [
+        "Organization"
+      ],
+      "properties": {
+        "id": "Atomic Energy Commission"
+      },
+      "elementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:24"
+    }
+  },
+  {
+    "n": {
+      "identity": 25,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "id": "Alvin Weinberg"
+      },
+      "elementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:25"
+    },
+    "r": {
+      "identity": 1152939096792891417,
+      "start": 25,
+      "end": 22,
+      "type": "DIRECTOR",
+      "properties": {},
+      "elementId": "5:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:1152939096792891417",
+      "startNodeElementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:25",
+      "endNodeElementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:22"
+    },
+    "m": {
+      "identity": 22,
+      "labels": [
+        "Organization"
+      ],
+      "properties": {
+        "id": "Oak Ridge National Laboratory"
+      },
+      "elementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:22"
+    }
+  },
+  {
+    "n": {
+      "identity": 26,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "id": "Chet Holifield"
+      },
+      "elementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:26"
+    },
+    "r": {
+      "identity": 1152940196304519194,
+      "start": 26,
+      "end": 25,
+      "type": "CONFRONTED",
+      "properties": {},
+      "elementId": "5:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:1152940196304519194",
+      "startNodeElementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:26",
+      "endNodeElementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:25"
+    },
+    "m": {
+      "identity": 25,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "id": "Alvin Weinberg"
+      },
+      "elementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:25"
+    }
+  },
+  {
+    "n": {
+      "identity": 27,
+      "labels": [
+        "Organization"
+      ],
+      "properties": {
+        "id": "Bhabha Atomic Research Centre"
+      },
+      "elementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:27"
+    },
+    "r": {
+      "identity": 1152941295816146971,
+      "start": 27,
+      "end": 28,
+      "type": "LOCATED_IN",
+      "properties": {},
+      "elementId": "5:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:1152941295816146971",
+      "startNodeElementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:27",
+      "endNodeElementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:28"
+    },
+    "m": {
+      "identity": 28,
+      "labels": [
+        "Country"
+      ],
+      "properties": {
+        "id": "India"
+      },
+      "elementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:28"
+    }
+  },
+  {
+    "n": {
+      "identity": 27,
+      "labels": [
+        "Organization"
+      ],
+      "properties": {
+        "id": "Bhabha Atomic Research Centre"
+      },
+      "elementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:27"
+    },
+    "r": {
+      "identity": 1152942395327774747,
+      "start": 27,
+      "end": 29,
+      "type": "HEADQUARTERED_IN",
+      "properties": {},
+      "elementId": "5:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:1152942395327774747",
+      "startNodeElementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:27",
+      "endNodeElementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:29"
+    },
+    "m": {
+      "identity": 29,
+      "labels": [
+        "Location"
+      ],
+      "properties": {
+        "id": "Trombay, Mumbai, Maharashtra"
+      },
+      "elementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:29"
+    }
+  },
+  {
+    "n": {
+      "identity": 27,
+      "labels": [
+        "Organization"
+      ],
+      "properties": {
+        "id": "Bhabha Atomic Research Centre"
+      },
+      "elementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:27"
+    },
+    "r": {
+      "identity": 1152945693862658075,
+      "start": 27,
+      "end": 33,
+      "type": "OPERATES_UNDER",
+      "properties": {},
+      "elementId": "5:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:1152945693862658075",
+      "startNodeElementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:27",
+      "endNodeElementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:33"
+    },
+    "m": {
+      "identity": 33,
+      "labels": [
+        "Organization"
+      ],
+      "properties": {
+        "id": "Department Of Atomic Energy"
+      },
+      "elementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:33"
+    }
+  },
+  {
+    "n": {
+      "identity": 27,
+      "labels": [
+        "Organization"
+      ],
+      "properties": {
+        "id": "Bhabha Atomic Research Centre"
+      },
+      "elementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:27"
+    },
+    "r": {
+      "identity": 1152947892885913627,
+      "start": 27,
+      "end": 35,
+      "type": "HAS_FACILITY",
+      "properties": {},
+      "elementId": "5:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:1152947892885913627",
+      "startNodeElementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:27",
+      "endNodeElementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:35"
+    },
+    "m": {
+      "identity": 35,
+      "labels": [
+        "Location"
+      ],
+      "properties": {
+        "id": "Challakere, Chitradurga District, Karnataka"
+      },
+      "elementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:35"
+    }
+  },
+  {
+    "n": {
+      "identity": 27,
+      "labels": [
+        "Organization"
+      ],
+      "properties": {
+        "id": "Bhabha Atomic Research Centre"
+      },
+      "elementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:27"
+    },
+    "r": {
+      "identity": 1155199692699598875,
+      "start": 27,
+      "end": 36,
+      "type": "HAS_FACILITY",
+      "properties": {},
+      "elementId": "5:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:1155199692699598875",
+      "startNodeElementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:27",
+      "endNodeElementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:36"
+    },
+    "m": {
+      "identity": 36,
+      "labels": [
+        "Location"
+      ],
+      "properties": {
+        "id": "Atchutapuram, Visakhapatnam, Andhra Pradesh"
+      },
+      "elementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:36"
+    }
+  },
+  {
+    "n": {
+      "identity": 27,
+      "labels": [
+        "Organization"
+      ],
+      "properties": {
+        "id": "Bhabha Atomic Research Centre"
+      },
+      "elementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:27"
+    },
+    "r": {
+      "identity": 1152948992397541403,
+      "start": 27,
+      "end": 37,
+      "type": "CONSTRUCTING",
+      "properties": {},
+      "elementId": "5:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:1152948992397541403",
+      "startNodeElementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:27",
+      "endNodeElementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:37"
+    },
+    "m": {
+      "identity": 37,
+      "labels": [
+        "Facility"
+      ],
+      "properties": {
+        "id": "Special Mineral Enrichment Facility"
+      },
+      "elementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:37"
+    }
+  },
+  {
+    "n": {
+      "identity": 27,
+      "labels": [
+        "Organization"
+      ],
+      "properties": {
+        "id": "Bhabha Atomic Research Centre"
+      },
+      "elementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:27"
+    },
+    "r": {
+      "identity": 1152953390444052507,
+      "start": 27,
+      "end": 43,
+      "type": "RENAMED_ON",
+      "properties": {},
+      "elementId": "5:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:1152953390444052507",
+      "startNodeElementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:27",
+      "endNodeElementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:43"
+    },
+    "m": {
+      "identity": 43,
+      "labels": [
+        "Date"
+      ],
+      "properties": {
+        "id": "22 January 1967"
+      },
+      "elementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:43"
+    }
+  },
+  {
+    "n": {
+      "identity": 30,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "id": "Homi Jehangir Bhabha"
+      },
+      "elementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:30"
+    },
+    "r": {
+      "identity": 1152943494839402526,
+      "start": 30,
+      "end": 31,
+      "type": "FOUNDED",
+      "properties": {},
+      "elementId": "5:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:1152943494839402526",
+      "startNodeElementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:30",
+      "endNodeElementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:31"
+    },
+    "m": {
+      "identity": 31,
+      "labels": [
+        "Organization"
+      ],
+      "properties": {
+        "id": "Atomic Energy Establishment, Trombay"
+      },
+      "elementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:31"
+    }
+  },
+  {
+    "n": {
+      "identity": 30,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "id": "Homi Jehangir Bhabha"
+      },
+      "elementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:30"
+    },
+    "r": {
+      "identity": 1152950091909169182,
+      "start": 30,
+      "end": 39,
+      "type": "SENT_PROPOSAL_TO",
+      "properties": {},
+      "elementId": "5:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:1152950091909169182",
+      "startNodeElementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:30",
+      "endNodeElementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:39"
+    },
+    "m": {
+      "identity": 39,
+      "labels": [
+        "Organization"
+      ],
+      "properties": {
+        "id": "Sir Dorabji Tata Trust"
+      },
+      "elementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:39"
+    }
+  },
+  {
+    "n": {
+      "identity": 30,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "id": "Homi Jehangir Bhabha"
+      },
+      "elementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:30"
+    },
+    "r": {
+      "identity": 1152951191420796958,
+      "start": 30,
+      "end": 40,
+      "type": "SENT_PROPOSAL_ON",
+      "properties": {},
+      "elementId": "5:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:1152951191420796958",
+      "startNodeElementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:30",
+      "endNodeElementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:40"
+    },
+    "m": {
+      "identity": 40,
+      "labels": [
+        "Date"
+      ],
+      "properties": {
+        "id": "March 1944"
+      },
+      "elementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:40"
+    }
+  },
+  {
+    "n": {
+      "identity": 31,
+      "labels": [
+        "Organization"
+      ],
+      "properties": {
+        "id": "Atomic Energy Establishment, Trombay"
+      },
+      "elementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:31"
+    },
+    "r": {
+      "identity": 1152944594351030303,
+      "start": 31,
+      "end": 32,
+      "type": "FOUNDED_ON",
+      "properties": {},
+      "elementId": "5:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:1152944594351030303",
+      "startNodeElementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:31",
+      "endNodeElementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:32"
+    },
+    "m": {
+      "identity": 32,
+      "labels": [
+        "Date"
+      ],
+      "properties": {
+        "id": "January 1954"
+      },
+      "elementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:32"
+    }
+  },
+  {
+    "n": {
+      "identity": 31,
+      "labels": [
+        "Organization"
+      ],
+      "properties": {
+        "id": "Atomic Energy Establishment, Trombay"
+      },
+      "elementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:31"
+    },
+    "r": {
+      "identity": 1152952290932424735,
+      "start": 31,
+      "end": 42,
+      "type": "ESTABLISHED_ON",
+      "properties": {},
+      "elementId": "5:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:1152952290932424735",
+      "startNodeElementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:31",
+      "endNodeElementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:42"
+    },
+    "m": {
+      "identity": 42,
+      "labels": [
+        "Date"
+      ],
+      "properties": {
+        "id": "3 January 1954"
+      },
+      "elementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:42"
+    }
+  },
+  {
+    "n": {
+      "identity": 33,
+      "labels": [
+        "Organization"
+      ],
+      "properties": {
+        "id": "Department Of Atomic Energy"
+      },
+      "elementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:33"
+    },
+    "r": {
+      "identity": 1152946793374285857,
+      "start": 33,
+      "end": 34,
+      "type": "OVERSEEN_BY",
+      "properties": {},
+      "elementId": "5:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:1152946793374285857",
+      "startNodeElementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:33",
+      "endNodeElementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:34"
+    },
+    "m": {
+      "identity": 34,
+      "labels": [
+        "Position"
+      ],
+      "properties": {
+        "id": "Prime Minister Of India"
+      },
+      "elementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:34"
+    }
+  },
+  {
+    "n": {
+      "identity": 44,
+      "labels": [
+        "Process"
+      ],
+      "properties": {
+        "id": "Nuclear Fission"
+      },
+      "elementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:44"
+    },
+    "r": {
+      "identity": 1152932499723124780,
+      "start": 44,
+      "end": 70,
+      "type": "USES",
+      "properties": {},
+      "elementId": "5:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:1152932499723124780",
+      "startNodeElementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:44",
+      "endNodeElementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:70"
+    },
+    "m": {
+      "identity": 70,
+      "labels": [
+        "Concept"
+      ],
+      "properties": {
+        "id": "Nuclear Fuels"
+      },
+      "elementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:70"
+    }
+  },
+  {
+    "n": {
+      "identity": 44,
+      "labels": [
+        "Process"
+      ],
+      "properties": {
+        "id": "Nuclear Fission"
+      },
+      "elementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:44"
+    },
+    "r": {
+      "identity": 1155184299536810028,
+      "start": 44,
+      "end": 71,
+      "type": "USES",
+      "properties": {},
+      "elementId": "5:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:1155184299536810028",
+      "startNodeElementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:44",
+      "endNodeElementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:71"
+    },
+    "m": {
+      "identity": 71,
+      "labels": [
+        "Concept"
+      ],
+      "properties": {
+        "id": "Nuclear Reactor"
+      },
+      "elementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:71"
+    }
+  },
+  {
+    "n": {
+      "identity": 44,
+      "labels": [
+        "Process"
+      ],
+      "properties": {
+        "id": "Nuclear Fission"
+      },
+      "elementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:44"
+    },
+    "r": {
+      "identity": 1152954489955680300,
+      "start": 44,
+      "end": 45,
+      "type": "SPLITS",
+      "properties": {},
+      "elementId": "5:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:1152954489955680300",
+      "startNodeElementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:44",
+      "endNodeElementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:45"
+    },
+    "m": {
+      "identity": 45,
+      "labels": [
+        "Concept"
+      ],
+      "properties": {
+        "id": "Atom Nucleus"
+      },
+      "elementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:45"
+    }
+  },
+  {
+    "n": {
+      "identity": 44,
+      "labels": [
+        "Process"
+      ],
+      "properties": {
+        "id": "Nuclear Fission"
+      },
+      "elementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:44"
+    },
+    "r": {
+      "identity": 1152955589467308076,
+      "start": 44,
+      "end": 46,
+      "type": "PRODUCES",
+      "properties": {},
+      "elementId": "5:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:1152955589467308076",
+      "startNodeElementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:44",
+      "endNodeElementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:46"
+    },
+    "m": {
+      "identity": 46,
+      "labels": [
+        "Concept"
+      ],
+      "properties": {
+        "id": "Smaller Nuclei"
+      },
+      "elementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:46"
+    }
+  },
+  {
+    "n": {
+      "identity": 44,
+      "labels": [
+        "Process"
+      ],
+      "properties": {
+        "id": "Nuclear Fission"
+      },
+      "elementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:44"
+    },
+    "r": {
+      "identity": 1155207389280993324,
+      "start": 44,
+      "end": 47,
+      "type": "PRODUCES",
+      "properties": {},
+      "elementId": "5:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:1155207389280993324",
+      "startNodeElementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:44",
+      "endNodeElementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:47"
+    },
+    "m": {
+      "identity": 47,
+      "labels": [
+        "Concept"
+      ],
+      "properties": {
+        "id": "Gamma Photons"
+      },
+      "elementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:47"
+    }
+  },
+  {
+    "n": {
+      "identity": 44,
+      "labels": [
+        "Process"
+      ],
+      "properties": {
+        "id": "Nuclear Fission"
+      },
+      "elementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:44"
+    },
+    "r": {
+      "identity": 1157459189094678572,
+      "start": 44,
+      "end": 68,
+      "type": "PRODUCES",
+      "properties": {},
+      "elementId": "5:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:1157459189094678572",
+      "startNodeElementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:44",
+      "endNodeElementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:68"
+    },
+    "m": {
+      "identity": 68,
+      "labels": [
+        "Concept"
+      ],
+      "properties": {
+        "id": "Nuclear Power"
+      },
+      "elementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:68"
+    }
+  },
+  {
+    "n": {
+      "identity": 44,
+      "labels": [
+        "Process"
+      ],
+      "properties": {
+        "id": "Nuclear Fission"
+      },
+      "elementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:44"
+    },
+    "r": {
+      "identity": 1159710988908363820,
+      "start": 44,
+      "end": 72,
+      "type": "PRODUCES",
+      "properties": {},
+      "elementId": "5:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:1159710988908363820",
+      "startNodeElementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:44",
+      "endNodeElementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:72"
+    },
+    "m": {
+      "identity": 72,
+      "labels": [
+        "Concept"
+      ],
+      "properties": {
+        "id": "Nuclear Waste"
+      },
+      "elementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:72"
+    }
+  },
+  {
+    "n": {
+      "identity": 44,
+      "labels": [
+        "Process"
+      ],
+      "properties": {
+        "id": "Nuclear Fission"
+      },
+      "elementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:44"
+    },
+    "r": {
+      "identity": 1152956688978935852,
+      "start": 44,
+      "end": 48,
+      "type": "RELEASES",
+      "properties": {},
+      "elementId": "5:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:1152956688978935852",
+      "startNodeElementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:44",
+      "endNodeElementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:48"
+    },
+    "m": {
+      "identity": 48,
+      "labels": [
+        "Concept"
+      ],
+      "properties": {
+        "id": "Energy"
+      },
+      "elementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:48"
+    }
+  },
+  {
+    "n": {
+      "identity": 44,
+      "labels": [
+        "Process"
+      ],
+      "properties": {
+        "id": "Nuclear Fission"
+      },
+      "elementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:44"
+    },
+    "r": {
+      "identity": 1155208488792621100,
+      "start": 44,
+      "end": 54,
+      "type": "RELEASES",
+      "properties": {},
+      "elementId": "5:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:1155208488792621100",
+      "startNodeElementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:44",
+      "endNodeElementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:54"
+    },
+    "m": {
+      "identity": 54,
+      "labels": [
+        "Concept"
+      ],
+      "properties": {
+        "id": "Electromagnetic Radiation"
+      },
+      "elementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:54"
+    }
+  },
+  {
+    "n": {
+      "identity": 44,
+      "labels": [
+        "Process"
+      ],
+      "properties": {
+        "id": "Nuclear Fission"
+      },
+      "elementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:44"
+    },
+    "r": {
+      "identity": 1157460288606306348,
+      "start": 44,
+      "end": 55,
+      "type": "RELEASES",
+      "properties": {},
+      "elementId": "5:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:1157460288606306348",
+      "startNodeElementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:44",
+      "endNodeElementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:55"
+    },
+    "m": {
+      "identity": 55,
+      "labels": [
+        "Concept"
+      ],
+      "properties": {
+        "id": "Kinetic Energy"
+      },
+      "elementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:55"
+    }
+  },
+  {
+    "n": {
+      "identity": 44,
+      "labels": [
+        "Process"
+      ],
+      "properties": {
+        "id": "Nuclear Fission"
+      },
+      "elementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:44"
+    },
+    "r": {
+      "identity": 1152961087025446956,
+      "start": 44,
+      "end": 53,
+      "type": "ENABLES",
+      "properties": {},
+      "elementId": "5:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:1152961087025446956",
+      "startNodeElementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:44",
+      "endNodeElementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:53"
+    },
+    "m": {
+      "identity": 53,
+      "labels": [
+        "Concept"
+      ],
+      "properties": {
+        "id": "Nuclear Chain Reaction"
+      },
+      "elementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:53"
+    }
+  },
+  {
+    "n": {
+      "identity": 44,
+      "labels": [
+        "Process"
+      ],
+      "properties": {
+        "id": "Nuclear Fission"
+      },
+      "elementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:44"
+    },
+    "r": {
+      "identity": 1152962186537074732,
+      "start": 44,
+      "end": 57,
+      "type": "IS_A_FORM_OF",
+      "properties": {},
+      "elementId": "5:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:1152962186537074732",
+      "startNodeElementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:44",
+      "endNodeElementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:57"
+    },
+    "m": {
+      "identity": 57,
+      "labels": [
+        "Process"
+      ],
+      "properties": {
+        "id": "Nuclear Transmutation"
+      },
+      "elementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:57"
+    }
+  },
+  {
+    "n": {
+      "identity": 44,
+      "labels": [
+        "Process"
+      ],
+      "properties": {
+        "id": "Nuclear Fission"
+      },
+      "elementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:44"
+    },
+    "r": {
+      "identity": 1152963286048702508,
+      "start": 44,
+      "end": 59,
+      "type": "INCLUDES",
+      "properties": {},
+      "elementId": "5:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:1152963286048702508",
+      "startNodeElementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:44",
+      "endNodeElementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:59"
+    },
+    "m": {
+      "identity": 59,
+      "labels": [
+        "Concept"
+      ],
+      "properties": {
+        "id": "Binary Fissions"
+      },
+      "elementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:59"
+    }
+  },
+  {
+    "n": {
+      "identity": 44,
+      "labels": [
+        "Process"
+      ],
+      "properties": {
+        "id": "Nuclear Fission"
+      },
+      "elementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:44"
+    },
+    "r": {
+      "identity": 1155215085862387756,
+      "start": 44,
+      "end": 60,
+      "type": "INCLUDES",
+      "properties": {},
+      "elementId": "5:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:1155215085862387756",
+      "startNodeElementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:44",
+      "endNodeElementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:60"
+    },
+    "m": {
+      "identity": 60,
+      "labels": [
+        "Concept"
+      ],
+      "properties": {
+        "id": "Ternary Fission"
+      },
+      "elementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:60"
+    }
+  },
+  {
+    "n": {
+      "identity": 44,
+      "labels": [
+        "Process"
+      ],
+      "properties": {
+        "id": "Nuclear Fission"
+      },
+      "elementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:44"
+    },
+    "r": {
+      "identity": 1152964385560330284,
+      "start": 44,
+      "end": 69,
+      "type": "DRIVES",
+      "properties": {},
+      "elementId": "5:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:1152964385560330284",
+      "startNodeElementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:44",
+      "endNodeElementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:69"
+    },
+    "m": {
+      "identity": 69,
+      "labels": [
+        "Concept"
+      ],
+      "properties": {
+        "id": "Nuclear Weapons"
+      },
+      "elementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:69"
+    }
+  },
+  {
+    "n": {
+      "identity": 49,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "id": "Otto Hahn"
+      },
+      "elementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:49"
+    },
+    "r": {
+      "identity": 1152957788490563633,
+      "start": 49,
+      "end": 44,
+      "type": "DISCOVERED",
+      "properties": {},
+      "elementId": "5:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:1152957788490563633",
+      "startNodeElementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:49",
+      "endNodeElementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:44"
+    },
+    "m": {
+      "identity": 44,
+      "labels": [
+        "Process"
+      ],
+      "properties": {
+        "id": "Nuclear Fission"
+      },
+      "elementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:44"
+    }
+  },
+  {
+    "n": {
+      "identity": 50,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "id": "Fritz Strassmann"
+      },
+      "elementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:50"
+    },
+    "r": {
+      "identity": 1152957788490563634,
+      "start": 50,
+      "end": 44,
+      "type": "DISCOVERED",
+      "properties": {},
+      "elementId": "5:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:1152957788490563634",
+      "startNodeElementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:50",
+      "endNodeElementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:44"
+    },
+    "m": {
+      "identity": 44,
+      "labels": [
+        "Process"
+      ],
+      "properties": {
+        "id": "Nuclear Fission"
+      },
+      "elementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:44"
+    }
+  },
+  {
+    "n": {
+      "identity": 51,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "id": "Lise Meitner"
+      },
+      "elementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:51"
+    },
+    "r": {
+      "identity": 1152958888002191411,
+      "start": 51,
+      "end": 44,
+      "type": "EXPLAINED",
+      "properties": {},
+      "elementId": "5:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:1152958888002191411",
+      "startNodeElementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:51",
+      "endNodeElementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:44"
+    },
+    "m": {
+      "identity": 44,
+      "labels": [
+        "Process"
+      ],
+      "properties": {
+        "id": "Nuclear Fission"
+      },
+      "elementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:44"
+    }
+  },
+  {
+    "n": {
+      "identity": 52,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "id": "Otto Robert Frisch"
+      },
+      "elementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:52"
+    },
+    "r": {
+      "identity": 1152958888002191412,
+      "start": 52,
+      "end": 44,
+      "type": "EXPLAINED",
+      "properties": {},
+      "elementId": "5:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:1152958888002191412",
+      "startNodeElementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:52",
+      "endNodeElementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:44"
+    },
+    "m": {
+      "identity": 44,
+      "labels": [
+        "Process"
+      ],
+      "properties": {
+        "id": "Nuclear Fission"
+      },
+      "elementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:44"
+    }
+  },
+  {
+    "n": {
+      "identity": 52,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "id": "Otto Robert Frisch"
+      },
+      "elementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:52"
+    },
+    "r": {
+      "identity": 1152959987513819188,
+      "start": 52,
+      "end": 44,
+      "type": "NAMED",
+      "properties": {},
+      "elementId": "5:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:1152959987513819188",
+      "startNodeElementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:52",
+      "endNodeElementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:44"
+    },
+    "m": {
+      "identity": 44,
+      "labels": [
+        "Process"
+      ],
+      "properties": {
+        "id": "Nuclear Fission"
+      },
+      "elementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:44"
+    }
+  },
+  {
+    "n": {
+      "identity": 63,
+      "labels": [
+        "Process"
+      ],
+      "properties": {
+        "id": "Spontaneous Fission"
+      },
+      "elementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:63"
+    },
+    "r": {
+      "identity": 6919821509384994860,
+      "start": 63,
+      "end": 44,
+      "type": "IS_A_FORM_OF",
+      "properties": {},
+      "elementId": "5:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:6919821509384994860",
+      "startNodeElementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:63",
+      "endNodeElementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:44"
+    },
+    "m": {
+      "identity": 44,
+      "labels": [
+        "Process"
+      ],
+      "properties": {
+        "id": "Nuclear Fission"
+      },
+      "elementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:44"
+    }
+  },
+  {
+    "n": {
+      "identity": 64,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "id": "Flyorov"
+      },
+      "elementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:64"
+    },
+    "r": {
+      "identity": 1152957788490563648,
+      "start": 64,
+      "end": 63,
+      "type": "DISCOVERED",
+      "properties": {},
+      "elementId": "5:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:1152957788490563648",
+      "startNodeElementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:64",
+      "endNodeElementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:63"
+    },
+    "m": {
+      "identity": 63,
+      "labels": [
+        "Process"
+      ],
+      "properties": {
+        "id": "Spontaneous Fission"
+      },
+      "elementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:63"
+    }
+  },
+  {
+    "n": {
+      "identity": 65,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "id": "Petrzhak"
+      },
+      "elementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:65"
+    },
+    "r": {
+      "identity": 1152957788490563649,
+      "start": 65,
+      "end": 63,
+      "type": "DISCOVERED",
+      "properties": {},
+      "elementId": "5:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:1152957788490563649",
+      "startNodeElementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:65",
+      "endNodeElementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:63"
+    },
+    "m": {
+      "identity": 63,
+      "labels": [
+        "Process"
+      ],
+      "properties": {
+        "id": "Spontaneous Fission"
+      },
+      "elementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:63"
+    }
+  },
+  {
+    "n": {
+      "identity": 66,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "id": "Kurchatov"
+      },
+      "elementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:66"
+    },
+    "r": {
+      "identity": 1152957788490563650,
+      "start": 66,
+      "end": 63,
+      "type": "DISCOVERED",
+      "properties": {},
+      "elementId": "5:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:1152957788490563650",
+      "startNodeElementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:66",
+      "endNodeElementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:63"
+    },
+    "m": {
+      "identity": 63,
+      "labels": [
+        "Process"
+      ],
+      "properties": {
+        "id": "Spontaneous Fission"
+      },
+      "elementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:63"
+    }
+  },
+  {
+    "n": {
+      "identity": 77,
+      "labels": [
+        "Nuclear reactor"
+      ],
+      "properties": {
+        "id": "Boiling Water Reactor"
+      },
+      "elementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:77"
+    },
+    "r": {
+      "identity": 1155184299536810061,
+      "start": 77,
+      "end": 44,
+      "type": "USES",
+      "properties": {},
+      "elementId": "5:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:1155184299536810061",
+      "startNodeElementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:77",
+      "endNodeElementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:44"
+    },
+    "m": {
+      "identity": 44,
+      "labels": [
+        "Process"
+      ],
+      "properties": {
+        "id": "Nuclear Fission"
+      },
+      "elementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:44"
+    }
+  },
+  {
+    "n": {
+      "identity": 77,
+      "labels": [
+        "Nuclear reactor"
+      ],
+      "properties": {
+        "id": "Boiling Water Reactor"
+      },
+      "elementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:77"
+    },
+    "r": {
+      "identity": 1152932499723124813,
+      "start": 77,
+      "end": 84,
+      "type": "USES",
+      "properties": {},
+      "elementId": "5:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:1152932499723124813",
+      "startNodeElementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:77",
+      "endNodeElementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:84"
+    },
+    "m": {
+      "identity": 84,
+      "labels": [
+        "Substance"
+      ],
+      "properties": {
+        "id": "Demineralized Water"
+      },
+      "elementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:84"
+    }
+  },
+  {
+    "n": {
+      "identity": 77,
+      "labels": [
+        "Nuclear reactor"
+      ],
+      "properties": {
+        "id": "Boiling Water Reactor"
+      },
+      "elementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:77"
+    },
+    "r": {
+      "identity": 1157436099350495309,
+      "start": 77,
+      "end": 85,
+      "type": "USES",
+      "properties": {},
+      "elementId": "5:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:1157436099350495309",
+      "startNodeElementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:77",
+      "endNodeElementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:85"
+    },
+    "m": {
+      "identity": 85,
+      "labels": [
+        "Machine"
+      ],
+      "properties": {
+        "id": "Steam Turbine"
+      },
+      "elementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:85"
+    }
+  },
+  {
+    "n": {
+      "identity": 77,
+      "labels": [
+        "Nuclear reactor"
+      ],
+      "properties": {
+        "id": "Boiling Water Reactor"
+      },
+      "elementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:77"
+    },
+    "r": {
+      "identity": 1159687899164180557,
+      "start": 77,
+      "end": 86,
+      "type": "USES",
+      "properties": {},
+      "elementId": "5:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:1159687899164180557",
+      "startNodeElementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:77",
+      "endNodeElementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:86"
+    },
+    "m": {
+      "identity": 86,
+      "labels": [
+        "Machine"
+      ],
+      "properties": {
+        "id": "Condenser"
+      },
+      "elementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:86"
+    }
+  },
+  {
+    "n": {
+      "identity": 77,
+      "labels": [
+        "Nuclear reactor"
+      ],
+      "properties": {
+        "id": "Boiling Water Reactor"
+      },
+      "elementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:77"
+    },
+    "r": {
+      "identity": 1161939698977865805,
+      "start": 77,
+      "end": 89,
+      "type": "USES",
+      "properties": {},
+      "elementId": "5:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:1161939698977865805",
+      "startNodeElementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:77",
+      "endNodeElementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:89"
+    },
+    "m": {
+      "identity": 89,
+      "labels": [
+        "Machine"
+      ],
+      "properties": {
+        "id": "Feedwater Heaters"
+      },
+      "elementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:89"
+    }
+  },
+  {
+    "n": {
+      "identity": 77,
+      "labels": [
+        "Nuclear reactor"
+      ],
+      "properties": {
+        "id": "Boiling Water Reactor"
+      },
+      "elementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:77"
+    },
+    "r": {
+      "identity": 1164191498791551053,
+      "start": 77,
+      "end": 90,
+      "type": "USES",
+      "properties": {},
+      "elementId": "5:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:1164191498791551053",
+      "startNodeElementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:77",
+      "endNodeElementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:90"
+    },
+    "m": {
+      "identity": 90,
+      "labels": [
+        "Machine"
+      ],
+      "properties": {
+        "id": "Jet Pumps"
+      },
+      "elementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:90"
+    }
+  },
+  {
+    "n": {
+      "identity": 77,
+      "labels": [
+        "Nuclear reactor"
+      ],
+      "properties": {
+        "id": "Boiling Water Reactor"
+      },
+      "elementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:77"
+    },
+    "r": {
+      "identity": 1166443298605236301,
+      "start": 77,
+      "end": 91,
+      "type": "USES",
+      "properties": {},
+      "elementId": "5:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:1166443298605236301",
+      "startNodeElementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:77",
+      "endNodeElementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:91"
+    },
+    "m": {
+      "identity": 91,
+      "labels": [
+        "Machine"
+      ],
+      "properties": {
+        "id": "Internal Recirculation Pumps"
+      },
+      "elementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:91"
+    }
+  },
+  {
+    "n": {
+      "identity": 77,
+      "labels": [
+        "Nuclear reactor"
+      ],
+      "properties": {
+        "id": "Boiling Water Reactor"
+      },
+      "elementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:77"
+    },
+    "r": {
+      "identity": 1152965485071958093,
+      "start": 77,
+      "end": 78,
+      "type": "INSTANCE_OF",
+      "properties": {},
+      "elementId": "5:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:1152965485071958093",
+      "startNodeElementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:77",
+      "endNodeElementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:78"
+    },
+    "m": {
+      "identity": 78,
+      "labels": [
+        "Nuclear reactor type"
+      ],
+      "properties": {
+        "id": "Light Water Nuclear Reactor"
+      },
+      "elementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:78"
+    }
+  },
+  {
+    "n": {
+      "identity": 77,
+      "labels": [
+        "Nuclear reactor"
+      ],
+      "properties": {
+        "id": "Boiling Water Reactor"
+      },
+      "elementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:77"
+    },
+    "r": {
+      "identity": 1152966584583585869,
+      "start": 77,
+      "end": 79,
+      "type": "USED_FOR",
+      "properties": {},
+      "elementId": "5:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:1152966584583585869",
+      "startNodeElementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:77",
+      "endNodeElementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:79"
+    },
+    "m": {
+      "identity": 79,
+      "labels": [
+        "Process"
+      ],
+      "properties": {
+        "id": "Electrical Power Generation"
+      },
+      "elementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:79"
+    }
+  },
+  {
+    "n": {
+      "identity": 77,
+      "labels": [
+        "Nuclear reactor"
+      ],
+      "properties": {
+        "id": "Boiling Water Reactor"
+      },
+      "elementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:77"
+    },
+    "r": {
+      "identity": 1152967684095213645,
+      "start": 77,
+      "end": 81,
+      "type": "DEVELOPED_BY",
+      "properties": {},
+      "elementId": "5:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:1152967684095213645",
+      "startNodeElementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:77",
+      "endNodeElementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:81"
+    },
+    "m": {
+      "identity": 81,
+      "labels": [
+        "Organization"
+      ],
+      "properties": {
+        "id": "Argonne National Laboratory"
+      },
+      "elementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:81"
+    }
+  },
+  {
+    "n": {
+      "identity": 77,
+      "labels": [
+        "Nuclear reactor"
+      ],
+      "properties": {
+        "id": "Boiling Water Reactor"
+      },
+      "elementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:77"
+    },
+    "r": {
+      "identity": 1155219483908898893,
+      "start": 77,
+      "end": 82,
+      "type": "DEVELOPED_BY",
+      "properties": {},
+      "elementId": "5:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:1155219483908898893",
+      "startNodeElementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:77",
+      "endNodeElementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:82"
+    },
+    "m": {
+      "identity": 82,
+      "labels": [
+        "Organization"
+      ],
+      "properties": {
+        "id": "General Electric"
+      },
+      "elementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:82"
+    }
+  },
+  {
+    "n": {
+      "identity": 77,
+      "labels": [
+        "Nuclear reactor"
+      ],
+      "properties": {
+        "id": "Boiling Water Reactor"
+      },
+      "elementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:77"
+    },
+    "r": {
+      "identity": 1152968783606841421,
+      "start": 77,
+      "end": 83,
+      "type": "MANUFACTURED_BY",
+      "properties": {},
+      "elementId": "5:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:1152968783606841421",
+      "startNodeElementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:77",
+      "endNodeElementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:83"
+    },
+    "m": {
+      "identity": 83,
+      "labels": [
+        "Organization"
+      ],
+      "properties": {
+        "id": "Ge Hitachi Nuclear Energy"
+      },
+      "elementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:83"
+    }
+  },
+  {
+    "n": {
+      "identity": 77,
+      "labels": [
+        "Nuclear reactor"
+      ],
+      "properties": {
+        "id": "Boiling Water Reactor"
+      },
+      "elementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:77"
+    },
+    "r": {
+      "identity": 1152969883118469197,
+      "start": 77,
+      "end": 87,
+      "type": "CONTAINS",
+      "properties": {},
+      "elementId": "5:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:1152969883118469197",
+      "startNodeElementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:77",
+      "endNodeElementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:87"
+    },
+    "m": {
+      "identity": 87,
+      "labels": [
+        "Component"
+      ],
+      "properties": {
+        "id": "Reactor Pressure Vessel"
+      },
+      "elementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:87"
+    }
+  },
+  {
+    "n": {
+      "identity": 80,
+      "labels": [
+        "Nuclear reactor"
+      ],
+      "properties": {
+        "id": "Pressurized Water Reactor"
+      },
+      "elementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:80"
+    },
+    "r": {
+      "identity": 1152965485071958096,
+      "start": 80,
+      "end": 78,
+      "type": "INSTANCE_OF",
+      "properties": {},
+      "elementId": "5:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:1152965485071958096",
+      "startNodeElementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:80",
+      "endNodeElementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:78"
+    },
+    "m": {
+      "identity": 78,
+      "labels": [
+        "Nuclear reactor type"
+      ],
+      "properties": {
+        "id": "Light Water Nuclear Reactor"
+      },
+      "elementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:78"
+    }
+  },
+  {
+    "n": {
+      "identity": 87,
+      "labels": [
+        "Component"
+      ],
+      "properties": {
+        "id": "Reactor Pressure Vessel"
+      },
+      "elementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:87"
+    },
+    "r": {
+      "identity": 1152969883118469207,
+      "start": 87,
+      "end": 88,
+      "type": "CONTAINS",
+      "properties": {},
+      "elementId": "5:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:1152969883118469207",
+      "startNodeElementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:87",
+      "endNodeElementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:88"
+    },
+    "m": {
+      "identity": 88,
+      "labels": [
+        "Component"
+      ],
+      "properties": {
+        "id": "Nuclear Fuel Assemblies"
+      },
+      "elementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:88"
+    }
+  },
+  {
+    "n": {
+      "identity": 92,
+      "labels": [
+        "Facility"
+      ],
+      "properties": {
+        "id": "B Reactor"
+      },
+      "elementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:92"
+    },
+    "r": {
+      "identity": 1152936897769635932,
+      "start": 92,
+      "end": 93,
+      "type": "LOCATED_AT",
+      "properties": {},
+      "elementId": "5:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:1152936897769635932",
+      "startNodeElementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:92",
+      "endNodeElementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:93"
+    },
+    "m": {
+      "identity": 93,
+      "labels": [
+        "Location"
+      ],
+      "properties": {
+        "id": "Hanford Site"
+      },
+      "elementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:93"
+    }
+  },
+  {
+    "n": {
+      "identity": 92,
+      "labels": [
+        "Facility"
+      ],
+      "properties": {
+        "id": "B Reactor"
+      },
+      "elementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:92"
+    },
+    "r": {
+      "identity": 1152973181653352540,
+      "start": 92,
+      "end": 96,
+      "type": "PART_OF",
+      "properties": {},
+      "elementId": "5:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:1152973181653352540",
+      "startNodeElementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:92",
+      "endNodeElementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:96"
+    },
+    "m": {
+      "identity": 96,
+      "labels": [
+        "Project"
+      ],
+      "properties": {
+        "id": "Manhattan Project"
+      },
+      "elementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:96"
+    }
+  },
+  {
+    "n": {
+      "identity": 92,
+      "labels": [
+        "Facility"
+      ],
+      "properties": {
+        "id": "B Reactor"
+      },
+      "elementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:92"
+    },
+    "r": {
+      "identity": 1152975380676608092,
+      "start": 92,
+      "end": 101,
+      "type": "DESIGNATED_AS",
+      "properties": {},
+      "elementId": "5:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:1152975380676608092",
+      "startNodeElementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:92",
+      "endNodeElementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:101"
+    },
+    "m": {
+      "identity": 101,
+      "labels": [
+        "Designation"
+      ],
+      "properties": {
+        "id": "U.S. National Historic Landmark"
+      },
+      "elementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:101"
+    }
+  },
+  {
+    "n": {
+      "identity": 92,
+      "labels": [
+        "Facility"
+      ],
+      "properties": {
+        "id": "B Reactor"
+      },
+      "elementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:92"
+    },
+    "r": {
+      "identity": 1152976480188235868,
+      "start": 92,
+      "end": 104,
+      "type": "RECOMMENDED_FOR",
+      "properties": {},
+      "elementId": "5:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:1152976480188235868",
+      "startNodeElementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:92",
+      "endNodeElementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:104"
+    },
+    "m": {
+      "identity": 104,
+      "labels": [
+        "Park"
+      ],
+      "properties": {
+        "id": "Manhattan Project National Historical Park"
+      },
+      "elementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:104"
+    }
+  },
+  {
+    "n": {
+      "identity": 92,
+      "labels": [
+        "Facility"
+      ],
+      "properties": {
+        "id": "B Reactor"
+      },
+      "elementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:92"
+    },
+    "r": {
+      "identity": 1152978679211491420,
+      "start": 92,
+      "end": 123,
+      "type": "RELATED_TO",
+      "properties": {},
+      "elementId": "5:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:1152978679211491420",
+      "startNodeElementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:92",
+      "endNodeElementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:123"
+    },
+    "m": {
+      "identity": 123,
+      "labels": [
+        "Facility"
+      ],
+      "properties": {
+        "id": "D Reactor"
+      },
+      "elementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:123"
+    }
+  },
+  {
+    "n": {
+      "identity": 92,
+      "labels": [
+        "Facility"
+      ],
+      "properties": {
+        "id": "B Reactor"
+      },
+      "elementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:92"
+    },
+    "r": {
+      "identity": 1155230479025176668,
+      "start": 92,
+      "end": 124,
+      "type": "RELATED_TO",
+      "properties": {},
+      "elementId": "5:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:1155230479025176668",
+      "startNodeElementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:92",
+      "endNodeElementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:124"
+    },
+    "m": {
+      "identity": 124,
+      "labels": [
+        "Facility"
+      ],
+      "properties": {
+        "id": "F Reactor"
+      },
+      "elementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:124"
+    }
+  },
+  {
+    "n": {
+      "identity": 93,
+      "labels": [
+        "Location"
+      ],
+      "properties": {
+        "id": "Hanford Site"
+      },
+      "elementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:93"
+    },
+    "r": {
+      "identity": 1152970982630096989,
+      "start": 93,
+      "end": 94,
+      "type": "NEAR",
+      "properties": {},
+      "elementId": "5:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:1152970982630096989",
+      "startNodeElementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:93",
+      "endNodeElementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:94"
+    },
+    "m": {
+      "identity": 94,
+      "labels": [
+        "City"
+      ],
+      "properties": {
+        "id": "Richland"
+      },
+      "elementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:94"
+    }
+  },
+  {
+    "n": {
+      "identity": 94,
+      "labels": [
+        "City"
+      ],
+      "properties": {
+        "id": "Richland"
+      },
+      "elementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:94"
+    },
+    "r": {
+      "identity": 1152972082141724766,
+      "start": 94,
+      "end": 95,
+      "type": "IN",
+      "properties": {},
+      "elementId": "5:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:1152972082141724766",
+      "startNodeElementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:94",
+      "endNodeElementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:95"
+    },
+    "m": {
+      "identity": 95,
+      "labels": [
+        "State"
+      ],
+      "properties": {
+        "id": "Washington"
+      },
+      "elementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:95"
+    }
+  },
+  {
+    "n": {
+      "identity": 96,
+      "labels": [
+        "Project"
+      ],
+      "properties": {
+        "id": "Manhattan Project"
+      },
+      "elementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:96"
+    },
+    "r": {
+      "identity": 1152972082141724768,
+      "start": 96,
+      "end": 20,
+      "type": "IN",
+      "properties": {},
+      "elementId": "5:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:1152972082141724768",
+      "startNodeElementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:96",
+      "endNodeElementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:20"
+    },
+    "m": {
+      "identity": 20,
+      "labels": [
+        "Country"
+      ],
+      "properties": {
+        "id": "United States"
+      },
+      "elementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:20"
+    }
+  },
+  {
+    "n": {
+      "identity": 96,
+      "labels": [
+        "Project"
+      ],
+      "properties": {
+        "id": "Manhattan Project"
+      },
+      "elementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:96"
+    },
+    "r": {
+      "identity": 1152974281164980320,
+      "start": 96,
+      "end": 19,
+      "type": "DURING",
+      "properties": {},
+      "elementId": "5:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:1152974281164980320",
+      "startNodeElementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:96",
+      "endNodeElementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:19"
+    },
+    "m": {
+      "identity": 19,
+      "labels": [
+        "Event"
+      ],
+      "properties": {
+        "id": "World War Ii"
+      },
+      "elementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:19"
+    }
+  },
+  {
+    "n": {
+      "identity": 105,
+      "labels": [
+        "Organization"
+      ],
+      "properties": {
+        "id": "E. I. Du Pont De Nemours And Company"
+      },
+      "elementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:105"
+    },
+    "r": {
+      "identity": 1152935798258008169,
+      "start": 105,
+      "end": 92,
+      "type": "BUILT",
+      "properties": {},
+      "elementId": "5:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:1152935798258008169",
+      "startNodeElementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:105",
+      "endNodeElementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:92"
+    },
+    "m": {
+      "identity": 92,
+      "labels": [
+        "Facility"
+      ],
+      "properties": {
+        "id": "B Reactor"
+      },
+      "elementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:92"
+    }
+  },
+  {
+    "n": {
+      "identity": 106,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "id": "Enrico Fermi"
+      },
+      "elementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:106"
+    },
+    "r": {
+      "identity": 1152977579699863658,
+      "start": 106,
+      "end": 107,
+      "type": "ASSOCIATED_WITH",
+      "properties": {},
+      "elementId": "5:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:1152977579699863658",
+      "startNodeElementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:106",
+      "endNodeElementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:107"
+    },
+    "m": {
+      "identity": 107,
+      "labels": [
+        "Institution"
+      ],
+      "properties": {
+        "id": "University Of Chicago"
+      },
+      "elementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:107"
+    }
+  },
+  {
+    "n": {
+      "identity": 108,
+      "labels": [
+        "Facility"
+      ],
+      "properties": {
+        "id": "X-10 Graphite Reactor"
+      },
+      "elementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:108"
+    },
+    "r": {
+      "identity": 1152973181653352556,
+      "start": 108,
+      "end": 109,
+      "type": "PART_OF",
+      "properties": {},
+      "elementId": "5:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:1152973181653352556",
+      "startNodeElementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:108",
+      "endNodeElementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:109"
+    },
+    "m": {
+      "identity": 109,
+      "labels": [
+        "Institution"
+      ],
+      "properties": {
+        "id": "Oak Ridge National Laboratory"
+      },
+      "elementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:109"
+    }
+  },
+  {
+    "n": {
+      "identity": 126,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "id": "Chien-Shiung"
+      },
+      "elementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:126"
+    },
+    "r": {
+      "identity": 1152933599234752638,
+      "start": 126,
+      "end": 125,
+      "type": "RESEARCHED",
+      "properties": {},
+      "elementId": "5:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:1152933599234752638",
+      "startNodeElementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:126",
+      "endNodeElementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:125"
+    },
+    "m": {
+      "identity": 125,
+      "labels": [
+        "Material"
+      ],
+      "properties": {
+        "id": "Xe-135"
+      },
+      "elementId": "4:7b1d05d3-eb6e-41c4-98bf-a7dff92bdae3:125"
+    }
+  }
+]
